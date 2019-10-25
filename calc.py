@@ -1,8 +1,11 @@
-def multiply(x, y):
-  return x*y
+def add(a, b):
+  pass
 
-def divide(x, y):
-  return x/y
+def subtract(a, b):
+  pass
 
-def subtract(x, y):
-  return x-y
+def multiply(a, b):
+  pass
+
+def divide(a, b):
+  pass
